@@ -1,0 +1,28 @@
+# Data handling
+pandas
+numpy
+openpyxl
+
+# MySQL
+mysql-connector-python
+SQLAlchemy
+PyMySQL
+
+# Environment variables
+python-dotenv
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+scipy
+
+# Model serialization
+joblib
+
+# Dashboard / Application
+streamlit
